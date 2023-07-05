@@ -10,8 +10,8 @@
         Long description of module's purpose
     """,
 
-    'author': "My Company",
-    'website': "http://www.yourcompany.com",
+    'author': "ERP VISION",
+    'website': "http://www.erp.com",
 
     'category': 'sale',
     'version': '0.1',
@@ -32,7 +32,9 @@
     'sequence': -67,
     'price': '1.0',
     'currency': 'USD',
-    'images': 'static/description/main.jpeg',
+    'images': 'static/description/main.png',
+              'static/description/cover.png',
     'category':'sale',
     'maintainer': 'Ali Hassan',
+    'license': 'AGPL-3',
 }
